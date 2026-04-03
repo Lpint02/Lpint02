@@ -11,7 +11,7 @@ Computer Engineering Master's student at Univaq, passionate about cloud, web dev
 | [FindEat](https://github.com/Lpint02/FindEat) | Web app to discover nearby restaurants on an interactive map, with reviews, photos, and favourites | JavaScript, Leaflet.js, Firebase, Google Places API |
 | [WorldConquer](https://github.com/NadiaMuzyka/WorldConquer) | Full implementation of the Risk board game | React, Redux |
 | [IoT Predictive Maintenance](https://github.com/Lpint02/iot-predictive-maintenance) | IoT system for predicting the Remaining Useful Life (RUL) of industrial machinery | Python, InfluxDB, Node-RED, MQTT |
-| [AWS Async Processing]([https://github.com/Lpint02/nomq-app](https://github.com/Lpint02/aws-async-computing.git) | Web app that offloads heavy matrix computations via an async queue to avoid HTTP timeouts | AWS (S3, Lambda, API Gateway), RabbitMQ, Node.js |
+| [AWS Async Processing](https://github.com/Lpint02/aws-async-computing.git) | Web app that offloads heavy matrix computations via an async queue to avoid HTTP timeouts | AWS (S3, Lambda, API Gateway), RabbitMQ, Node.js |
 | [Scheduling Algorithm Benchmark](https://github.com/Lpint02/AlgEng_Scheduling_Project) | Performance comparison of scheduling algorithms across different input distributions | Python |
 
 ---
